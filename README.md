@@ -2,7 +2,7 @@
 How computers recognise objects
 Travel and Tourism:
   - This allows a computer to identify a certain place that you may want to go based on a certain category that you have placed into the search engine or image that has been passed throgh the system. 
-  - There may be a problem with identifying where you want to go as there may be differnces in the categories or the computer may not if=dentify the specific place that you may potentially be reffering to.
+  - There may be a problem with identifying where you want to go as there may be differnces in the categories or the computer may not identify the specific place that you may potentially be reffering to.
   - It may take into consideration things within an image which are irrelevant and dont need to be factored in which could skewer the results
 Gaming and Entertainment:
   - This would allow a computer to identify a moving object which would be quite prevelant in a game and allow the user to interact with th eobject once they have come into view.
